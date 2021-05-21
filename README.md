@@ -1,4 +1,4 @@
 # WiImage
-The WiFi based imageing engeering.
+The WiFi based imaging engeering.
 Depandency:
 TensorFlow 1.4
